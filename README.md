@@ -41,7 +41,7 @@ i am pretty new to this community, as lua is the first language that I have lear
 
 <br>
 
-![Lua](https://img.shields.io/badge/Lua-161616?style=for-the-badge&logo=lua&logoColor=white) (mastered
+![Lua](https://img.shields.io/badge/Lua-161616?style=for-the-badge&logo=lua&logoColor=white) (mastering)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=F7DF1E) (learning)
 ![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=3776AB) (in progress)
 ![PowerShell](https://img.shields.io/badge/PowerShell-161616?style=for-the-badge&logo=powershell&logoColor=5391FE) (yes and my cli <3)
