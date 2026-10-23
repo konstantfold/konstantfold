@@ -12,7 +12,6 @@
 ![Luau](https://img.shields.io/badge/Luau-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-161616?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 </div>
 
